@@ -1,13 +1,1 @@
-asgiref==3.9.1
-Django==5.2.6
-django-auth-ldap==5.2.0
-dotenv==0.9.9
-pyasn1==0.6.1
-pyasn1_modules==0.4.2
-python-decouple==3.8
-python-dotenv==1.1.1
-python-ldap==3.4.4
-sqlparse==0.5.3
-pymysql==1.1.2
-cryptography==45.0.7 
-pycparser==2.23
+
