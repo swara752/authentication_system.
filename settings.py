@@ -78,9 +78,9 @@ WSGI_APPLICATION = 'authentication_system.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'accounts_db',
+        'NAME': 'authentication_system.db',
         'USER': 'accountant',
-        'PASSWORD': 'Activ8*o', 
+        'PASSWORD': 'Manasv1', 
         'HOST': 'localhost',
         'PORT': '3306',
     }
